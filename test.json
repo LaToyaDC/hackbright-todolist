@@ -5,5 +5,10 @@
 		"Dishes",
 		"Cook dinner",
 		"Party"	
+	"name": "LaToya",
+	"tasks": [
+		"Final Project",
+		"Laundry",
+		"Walk Dogs",
 	]
 }
